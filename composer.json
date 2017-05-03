@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mailgun/mailgun-php": "~1.7.2",
+        "imagine/imagine": "^0.6.2"
+    }
+}

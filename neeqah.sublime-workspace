@@ -1,0 +1,615 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sessio",
+				"session_start"
+			],
+			[
+				"vendor",
+				"vendor_name"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"mysq",
+				"mysql_error"
+			],
+			[
+				"mysql_",
+				"mysql_query"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			],
+			[
+				"sess",
+				"_SESSION"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"ad",
+				"addslashes"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"bs",
+				"bootstrap"
+			],
+			[
+				"nama_",
+				"nama_pasien"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"kode",
+				"kode_buku"
+			],
+			[
+				"mys",
+				"mysql_error"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "proses_register.php",
+			"settings":
+			{
+				"buffer_size": 873,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "proses_login.php",
+			"settings":
+			{
+				"buffer_size": 1017,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 3337,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "login.php",
+			"settings":
+			{
+				"buffer_size": 3122,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "register.php",
+			"settings":
+			{
+				"buffer_size": 5578,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "connection.php",
+			"settings":
+			{
+				"buffer_size": 151,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp2/htdocs/neeqah"
+	],
+	"file_history":
+	[
+		"/C/xampp2/htdocs/neeqah/register.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/akademik/master_dosen.php",
+		"/E/Web2/data_tabel/index.php",
+		"/C/Users/Inna/Downloads/127_0_0_1.sql",
+		"/C/xampp2/php/php.ini",
+		"/C/xampp/htdocs/neeqah/register.php",
+		"/C/xampp/htdocs/neeqah/register.html",
+		"/C/xampp/htdocs/rumahsakit/input_obat.php",
+		"/C/xampp/htdocs/homeadmin.php",
+		"/C/xampp/htdocs/rumahsakit/connection.php",
+		"/C/xampp/htdocs/akademik/connect.php",
+		"/C/xampp/htdocs/rumahsakit/edit-obat.php",
+		"/C/xampp/htdocs/old_inna/proses_post.php",
+		"/C/xampp/htdocs/old_inna/update_post.php",
+		"/C/xampp/htdocs/old_inna/add-post.php",
+		"/C/xampp/htdocs/neeqah/login.php",
+		"/C/xampp/htdocs/neeqah/header.php",
+		"/C/xampp/htdocs/neeqah/footer.php",
+		"/C/xampp/htdocs/neeqah/index.php",
+		"/C/xampp/htdocs/neeqah/step-01.html",
+		"/C/xampp/htdocs/neeqah/login.html",
+		"/C/xampp/htdocs/neeqah/index.html",
+		"/C/xampp/htdocs/homebar.php",
+		"/C/xampp/htdocs/UTS18120858/footer.php",
+		"/C/xampp/htdocs/UTS18120858/delete.php",
+		"/C/xampp/htdocs/UTS18120858/edit.php",
+		"/C/xampp/htdocs/UTS18120858/connection.php",
+		"/C/xampp/htdocs/UTS18120858/input.php",
+		"/C/xampp/htdocs/UTS18120858/header.php",
+		"/C/xampp/htdocs/UTS18120858/css/style.css",
+		"/C/xampp/htdocs/UTS18120858/tampil.php",
+		"/C/xampp/htdocs/old_inna/header.php",
+		"/C/xampp/htdocs/old_inna/css/style.css",
+		"/C/xampp/htdocs/rumahsakit/delete-obat.php",
+		"/C/xampp/htdocs/old_inna/category.php",
+		"/C/xampp/htdocs/old_inna/dashboard.php",
+		"/C/xampp/htdocs/old_inna/proses_kategori.php",
+		"/C/xampp/htdocs/old_inna/dashboard.html",
+		"/C/xampp/htdocs/old_inna/add-category.php",
+		"/C/xampp/htdocs/rumahsakit/obat.php",
+		"/C/xampp/htdocs/rumahsakit/footer.php",
+		"/C/xampp/htdocs/rumahsakit/header.php",
+		"/C/xampp/htdocs/rumahsakit/contoh.html",
+		"/C/xampp/htdocs/rumahsakit/kuiz.php",
+		"/C/xampp/htdocs/rumahsakit/kuiz2.php",
+		"/C/xampp/htdocs/html/index.html",
+		"/C/xampp/htdocs/html/css/style.css",
+		"/C/xampp/htdocs/html/css/bootstrap.min.css",
+		"/C/xampp/htdocs/html/form.php",
+		"/C/xampp/htdocs/html/coba.php",
+		"/C/xampp/htdocs/quis/header.php",
+		"/C/xampp/htdocs/quis/connection.php",
+		"/C/xampp/htdocs/rumahsakit/rekam_medis.php",
+		"/C/xampp/htdocs/quis/inventory.php",
+		"/C/quis/inventori.php",
+		"/C/xampp/htdocs/quis/footer.php",
+		"/C/xampp/htdocs/rumahsakit/css/style.css",
+		"/C/xampp/htdocs/old_inna/index.php",
+		"/C/xampp/htdocs/rumahsakit/pasien.php",
+		"/C/xampp/htdocs/rumahsakit/delete-pasien.php",
+		"/C/xampp/htdocs/rumahsakit/dokter.php",
+		"/C/xampp/htdocs/rumahsakit/input_dokter.php",
+		"/C/xampp/htdocs/rumahsakit/edit-pasien.php",
+		"/C/xampp/htdocs/rumahsakit/edit-dokter.php",
+		"/C/xampp/htdocs/rumahsakit/delete-dokter.php",
+		"/C/xampp/htdocs/rumahsakit/input_pasien.php",
+		"/C/Users/Inna/AppData/Local/Temp/Temp1_jejak kaki.zip/inna/culinary-adventure.php",
+		"/C/xampp/htdocs/rumahsakit/menu.php",
+		"/F/html/index.html",
+		"/C/xampp/htdocs/perpus/edit-anggota.php",
+		"/C/xampp/htdocs/sekolah/css/style.css",
+		"/C/xampp/htdocs/perpus/delete-anggota.php",
+		"/C/xampp/htdocs/perpus/delete-buku.php",
+		"/C/xampp/htdocs/perpus/edit-buku.php",
+		"/C/xampp/htdocs/perpus/input-anggota.php",
+		"/C/xampp/htdocs/perpus/index-anggota.php",
+		"/C/xampp/htdocs/perpus/footer.php",
+		"/C/xampp/htdocs/perpus/index.php",
+		"/C/xampp/htdocs/perpus/input-buku.php",
+		"/C/xampp/htdocs/perpus/start.php",
+		"/C/xampp/htdocs/perpus/header.php",
+		"/C/xampp/htdocs/perpus/connection.php",
+		"/C/xampp/htdocs/web/index.html",
+		"/C/xampp/htdocs/web/wp_2403.php",
+		"/C/xampp/htdocs/web/wp_24.php",
+		"/C/xampp/htdocs/web/simpan.php",
+		"/C/xampp/htdocs/web/proses_edit.php",
+		"/C/xampp/htdocs/web/edit.php",
+		"/C/xampp/htdocs/web/koneksi_24.php",
+		"/C/xampp/htdocs/web/delete.php",
+		"/C/xampp/htdocs/web/input_anggota.php",
+		"/C/xampp/htdocs/old_inna/delete-category.php",
+		"/C/xampp/htdocs/old_inna/update-category.php",
+		"/C/xampp/htdocs/old_inna/proses_update_kategori.php",
+		"/C/xampp/htdocs/web/wp_24.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"full name",
+			"extension",
+			"mcrypt",
+			"database",
+			"Database",
+			"extension=php_mcryp",
+			"mcrypt",
+			"mysql_connect",
+			"nav",
+			"side",
+			"navbar-def",
+			"navbar-",
+			"glyph",
+			"brand",
+			"col-md",
+			"span",
+			"span12",
+			"button",
+			"nivo",
+			"body"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "proses_register.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								852,
+								852
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "proses_login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								903,
+								903
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1717,
+								1717
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 4.0,
+						"translation.y": 457.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1872,
+								1872
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 326.0,
+						"translation.y": 541.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "register.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3846,
+								3846
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 458.0,
+						"translation.y": 854.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "connection.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "neeqah.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hea",
+				"neeqah\\header.php"
+			],
+			[
+				"",
+				"neeqah\\proses_login.php"
+			],
+			[
+				"head",
+				"neeqah\\header.php"
+			],
+			[
+				"register",
+				"neeqah\\register.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 457.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
